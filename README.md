@@ -14,8 +14,10 @@ To run the program, make sure that you have [gfortran installed first](https://w
 2) Navigate to the source folder (src)
 3) Double click the start.bat file
 ![image](https://github.com/BlueBudgieTech/FortranCalculator/assets/85682026/0bc46b5b-b17a-4436-b596-1c1fc09f9a24)
+
 4) Double click on extract all
 ![image](https://github.com/BlueBudgieTech/FortranCalculator/assets/85682026/0dca9708-e96d-407e-aa7c-9fcbefa699eb)
+
 5) Double click on the start.bat file after it has finished extracting.
 
 ## Method 2: Command line
