@@ -29,5 +29,6 @@ program Calculator
 		end if
 
 		read(*,*)
+		! Purpose of the read statement is to hold the program after execution instead of closing it directly.
 
 end program Calculator
